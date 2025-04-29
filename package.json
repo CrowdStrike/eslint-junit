@@ -1,6 +1,6 @@
 {
-  "name": "eslint-junit",
-  "version": "1.0.1",
+  "name": "@crowdstrike/eslint-junit",
+  "version": "1.0.0",
   "description": "A eslint result processor that generates junit xml files",
   "main": "index.js",
   "repository": "https://github.com/jcgertig/eslint-junit",
